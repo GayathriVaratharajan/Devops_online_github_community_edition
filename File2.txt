@@ -1,1 +1,3 @@
 This sample file(File2) created to push the changes to Github
+
+Adding new line to push into repo
